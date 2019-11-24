@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "VehicleInventory/1.0.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2019.1.3",
+          "JetBrains.ReSharper.CommandLineTools": "2019.2.3"
+        },
+        "runtime": {
+          "VehicleInventory.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2019.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2019.1.3.0",
+            "fileVersion": "2019.1.3.0"
+          }
+        }
+      },
+      "JetBrains.ReSharper.CommandLineTools/2019.2.3": {}
+    }
+  },
+  "libraries": {
+    "VehicleInventory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JetBrains.Annotations/2019.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E0x48BwZJKoNMNCekWGKsV4saQS89lf58ydT2szseV44CMYIbaHXjc7+305WLw6up3ibZN9yH6QdGSZo5tQhLg==",
+      "path": "jetbrains.annotations/2019.1.3",
+      "hashPath": "jetbrains.annotations.2019.1.3.nupkg.sha512"
+    },
+    "JetBrains.ReSharper.CommandLineTools/2019.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-clT/ln70hQ8zSmLOF6ek53Smkam5Fk8u2ejBjpDL5thfzejcQAdUJc6ZWbfH6Q1sz17G/jaByY9uhbvVTemHEQ==",
+      "path": "jetbrains.resharper.commandlinetools/2019.2.3",
+      "hashPath": "jetbrains.resharper.commandlinetools.2019.2.3.nupkg.sha512"
+    }
+  }
+}
