@@ -27,6 +27,7 @@
 *.so
 *.so.*
 *.dylib
+*.json
 
 # Executables
 *.exe
@@ -41,6 +42,11 @@
 *.su
 *.idb
 *.pdb
+*.pyo
+*.pyc
+*~
+*.bak
+*.swp
 
 # Kernel Module Compile Results
 *.mod*
